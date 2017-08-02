@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{A4CC36B6-0DFC-4013-B821-CF4C8F383B26}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode1Arrays/Program.cs">
     <Files>
-      <File FileName="LeetCode1Arrays/Program.cs" Line="10" Column="10" />
+      <File FileName="LeetCode1Arrays/Program.cs" Line="12" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
@@ -10,4 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LeetCode1Arrays PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
