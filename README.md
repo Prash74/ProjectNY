@@ -1,6 +1,6 @@
 # ProjectNY
 Solution to Leet Code Problems
 
-Author:
+Author: <br />
 Prashanth Balasubramani <br />
 Monish Kumar Appusamy
