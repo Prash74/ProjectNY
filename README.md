@@ -2,5 +2,5 @@
 Solution to Leet Code Problems
 
 Author:
-Prashanth Balasubramani
+Prashanth Balasubramani <br />
 Monish Kumar Appusamy
