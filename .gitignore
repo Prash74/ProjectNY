@@ -1,0 +1,6 @@
+*.pdb
+*.dll
+*.exe
+*.cache
+*.DS_Store
+
