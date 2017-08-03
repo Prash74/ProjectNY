@@ -7,7 +7,8 @@ namespace LeetCode1Arrays
         public static void Main(string[] args)
         {
             //Console.WriteLine(ArrayPairSum(new int[]{1,2,4,3,5,6}));
-            Console.WriteLine(MatrixReshape(new int[,] { { 1, 2 }, { 3, 4 } }, 1, 4));
+            //Console.WriteLine(MatrixReshape(new int[,] { { 1, 2 }, { 3, 4 } }, 1, 4));
+            Console.WriteLine(FindMaxConsecutiveOnes(new int[] { 1, 1, 0, 1, 1, 1 }));
         }
 
         public static int[,] MatrixReshape(int[,] nums, int r, int c)
@@ -58,6 +59,27 @@ namespace LeetCode1Arrays
                 }
             }
             return sum;
-		} 
+		}
+
+		public static int FindMaxConsecutiveOnes(int[] nums)
+		{
+			int max = 0, current = 0;
+			for (int i = 0; i < nums.Length; i++)
+			{
+				if (nums[i] == 0)
+				{
+					current = 0;
+				}
+				else
+				{
+					current += 1;
+				}
+				if (current > max)
+				{
+					max = current;
+				}
+			}
+            return max;
+		}
     }
 }
