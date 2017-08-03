@@ -3,8 +3,3 @@
 /Users/Monish/Documents/Github/ProjectNY/LeetCode1Arrays/LeetCode1Arrays/obj/x86/Debug/LeetCode1Arrays.csproj.CoreCompileInputs.cache
 /Users/Monish/Documents/Github/ProjectNY/LeetCode1Arrays/LeetCode1Arrays/obj/x86/Debug/LeetCode1Arrays.exe
 /Users/Monish/Documents/Github/ProjectNY/LeetCode1Arrays/LeetCode1Arrays/obj/x86/Debug/LeetCode1Arrays.pdb
-/Users/Monish/Documents/Github/ProjectNY/LeetCode/1.Arrays/C#/LeetCode1Arrays/LeetCode1Arrays/bin/Debug/LeetCode1Arrays.exe
-/Users/Monish/Documents/Github/ProjectNY/LeetCode/1.Arrays/C#/LeetCode1Arrays/LeetCode1Arrays/bin/Debug/LeetCode1Arrays.pdb
-/Users/Monish/Documents/Github/ProjectNY/LeetCode/1.Arrays/C#/LeetCode1Arrays/LeetCode1Arrays/obj/x86/Debug/LeetCode1Arrays.csproj.CoreCompileInputs.cache
-/Users/Monish/Documents/Github/ProjectNY/LeetCode/1.Arrays/C#/LeetCode1Arrays/LeetCode1Arrays/obj/x86/Debug/LeetCode1Arrays.exe
-/Users/Monish/Documents/Github/ProjectNY/LeetCode/1.Arrays/C#/LeetCode1Arrays/LeetCode1Arrays/obj/x86/Debug/LeetCode1Arrays.pdb
