@@ -10,7 +10,6 @@ def moveZeroes(nums):
     """
     count = 0
     for i in range(len(nums)):
-        
 
 
 nums = [0, 1, 0, 3, 12]
