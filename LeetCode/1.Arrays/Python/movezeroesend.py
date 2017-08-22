@@ -8,11 +8,13 @@ def moveZeroes(nums):
     :type nums: List[int]
     :rtype: void Do not return anything, modify nums in-place instead.
     """
-    count = 0
-    for i in range(len(nums)):
+    zero = 0  # records the position of "0"
+    for i in xrange(len(nums)):
+        if nums[i] != 0:
+            nums[i], nums[zero] = nums[zero], nums[i]
+            zero += 1
 
-
-nums = [0, 1, 0, 3, 12]
+nums = [3, 1, 0, 3, 12]
 print "Before : ", nums
 moveZeroes(nums)
 print "After : ", nums
